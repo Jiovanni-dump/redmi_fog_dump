@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211103.001 V13.0.6.0.SGEMIXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: fog
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211103.001
+- incremental: V13.0.6.0.SGEMIXM
+- tags: release-keys
+- fingerprint: Redmi/fog/fog:12/SKQ1.211103.001/V13.0.6.0.SGEMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.211103.001-V13.0.6.0.SGEMIXM-release-keys
+- repo: redmi_fog_dump
